@@ -1,3 +1,4 @@
 
-# HL2 RP Schema
-A Half-Life 2 Roleplay schema for [Helix](https://github.com/nebulouscloud/helix).
+
+i hope this is my thing please tell me i did not accidentally mess with it 
+that would not be possible anyway right 
